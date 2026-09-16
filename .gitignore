@@ -1,0 +1,9 @@
+data/
+outputs/
+__pycache__/
+.idea/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.pt
+*.npz

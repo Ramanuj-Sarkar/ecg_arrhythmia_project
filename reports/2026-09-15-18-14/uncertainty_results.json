@@ -1,0 +1,6 @@
+{
+  "mean_entropy_correct": 0.488116055727005,
+  "mean_entropy_incorrect": 0.9001526832580566,
+  "n_correct": 1950,
+  "n_incorrect": 487
+}

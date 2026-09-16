@@ -1,0 +1,6 @@
+{
+  "logrank_test_statistic": 1211.1421978341718,
+  "logrank_p_value": 6.119205721886843e-261,
+  "cox_concordance_index": 0.6164334036893312,
+  "interpretation": "A significant log-rank test (p < 0.05) indicates the predicted arrhythmia classes correspond to meaningfully different event-free survival curves. The Cox model's hazard ratios (see cox_model_summary.csv) show whether each predicted class remains prognostic after adjusting for age and sex -- i.e., whether the model adds information beyond basic demographics alone."
+}
